@@ -16,4 +16,8 @@ export default defineMessages({
     id: `${scope}.features`,
     defaultMessage: 'Features',
   },
+  counter: {
+    id: `${scope}.counter`,
+    defaultMessage: 'Counter',
+  },
 });
